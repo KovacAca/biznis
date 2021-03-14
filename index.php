@@ -2,8 +2,8 @@
 
     <!-- header -->
     <header>
-        <h1>Trusted and<br>professionals advisers</h1>
-        <h3>For yuor Business</h3>
+        <h1>Trusted and <br> professionals advisers</h1>
+        <h3>For yuor business</h3>
         <p>Showcase your Profile to the world using online CV builder and get Hired Faster</p>
         <button>About Us</button>
     </header>
