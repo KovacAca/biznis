@@ -27,7 +27,7 @@
         </article>
         <article>
             <h2>EVERYTHING YOU NEED IN ONE SOLUTION</h2>
-            <p></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem eos incidunt aperiam, dolorem. Iste voluptatibus repellendus omnis, perferendis beatae quasi dicta possimus similique ad, facilis nemo! Velit molestias blanditiis deleniti voluptatum cupiditate ullam alias magnam, soluta doloremque distinctio optio repellendus voluptas voluptatibus nesciunt ab modi, facilis possimus incidunt iste, ad?</p>
         </article>
     </section>
 
