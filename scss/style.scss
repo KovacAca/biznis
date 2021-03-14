@@ -198,7 +198,7 @@ footer {
 /*******************
 header
 ********************/
-header {
+.mainHeader {
     background-image: url(../img/header.jpg);
     @include flex(center, flex-end, column);
     height: 80vh;
@@ -304,3 +304,37 @@ services
         }
     }
 }
+/*******************
+black heading
+********************/
+.business {
+    background: $black;
+    color: white;
+    button {
+        @include btn;
+    }
+    .counter {
+        @include flex(space-between, center, row);
+        padding: $padding;
+        text-align: center;
+        .col {
+            flex: 1;
+            h2 {
+                color: $pink;
+                font-size: 4rem;
+            }
+            h4 {
+                color: $pink;
+                font-size: 2rem;
+            }
+            hr {
+                border: none;
+                height: 2px;
+                background: $white;
+                width: 80px;
+                margin: 30px auto 30px auto;
+            }
+        } 
+    }
+}
+ 
